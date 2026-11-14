@@ -1,2 +1,2 @@
 # EnglishToMetricCapstone
-This was one of my assignments from my object-oriented class at Curry College 
+This was my final project for my object-oriented class at Curry College.
